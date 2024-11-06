@@ -1,1 +1,6 @@
 Harshith new repository
+print(hello world)
+python
+java
+c++
+data structures
